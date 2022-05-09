@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(247, 255, 255);
+}
+
+.alert {
+    background-color: brown;
+    width: 100px;
+    height: 30px;
+    color: white;
+}
+
+.another {
+    background-color: blueviolet;
+    width: 50%;
+}
